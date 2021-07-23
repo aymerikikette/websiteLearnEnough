@@ -6,3 +6,4 @@ It helped me to understand how to use the commands git add, git commit and git p
 
 
 That's very valuable skills, check out this tutorial too !
+On my way to achieve la piscine de 42 :P
